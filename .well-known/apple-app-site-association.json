@@ -1,0 +1,18 @@
+{
+  "webcredentials": {
+    "apps": [
+      "LF25YG6Y89.de.saphir.software.planmanagement",
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LF25YG6Y89.de.saphir.software.planmanagement",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
